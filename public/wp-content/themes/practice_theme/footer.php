@@ -17,25 +17,25 @@
 	                <div class="row">
 	                    <div class="footer-col col-md-4">
 	                        <h3>Location</h3>
-	                        <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p>
+	                        <p>600 Navarro Street<br>San Antonio, TX 78205</p>
 	                    </div>
 	                    <div class="footer-col col-md-4">
 	                        <h3>Around the Web</h3>
 	                        <ul class="list-inline">
 	                            <li>
-	                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+	                                <a href="https://www.facebook.com/alexandra.gutierrez.79" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
 	                            </li>
 	                            <li>
-	                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+	                                <a href="https://plus.google.com/115191459348083464621/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
 	                            </li>
 	                            <li>
-	                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+	                                <a href="#" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
 	                            </li>
 	                            <li>
-	                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+	                                <a href="#" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
 	                            </li>
 	                            <li>
-	                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
+	                                <a href="#" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
 	                            </li>
 	                        </ul>
 	                    </div>
