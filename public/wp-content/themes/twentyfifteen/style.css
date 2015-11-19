@@ -241,8 +241,8 @@ i {
 }
 
 blockquote {
-	border-left: 4px solid #707070;
-	border-left: 4px solid rgba(51, 51, 51, 0.7);
+	border-left:3px dashed #d5bc8c;
+	border-right:3px dashed #d5bc8c;
 	color: #707070;
 	color: rgba(51, 51, 51, 0.7);
 	font-size: 18px;
@@ -250,7 +250,7 @@ blockquote {
 	font-style: italic;
 	line-height: 1.6667;
 	margin-bottom: 1.6667em;
-	padding-left: 0.7778em;
+	padding: 0 0.7778em;
 }
 
 blockquote p {
