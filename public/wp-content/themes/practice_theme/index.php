@@ -15,9 +15,8 @@
  */
 
 get_header(); ?>
+
 <!-- Portfolio Grid Section -->
-
-
     <section id="portfolio">
         <div class="container">
             <div class="row">
@@ -90,7 +89,6 @@ get_header(); ?>
             </div>
         </div>
     </section>
-
 
     <!-- About Section -->
     <section class="success" id="about">
